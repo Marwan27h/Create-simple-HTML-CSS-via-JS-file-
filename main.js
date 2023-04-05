@@ -8,7 +8,7 @@ let header = document.createElement("header");
 let menuTag = document.createElement("ul");
 let menuItemsList = ["Home", "About", "Service", "Contact"];
 
-//styling Elzero title
+//styling elhatab title
 let elhatabTitleSpan = document.createElement("span");
 elhatabTitleSpan.style.color = "gray";
 elhatabTitleSpan.style.padding ="3px";
